@@ -19,7 +19,7 @@ Install the API Response Formatter package via Composer:
 
 ```bash
 composer require avatrezaei/api-response-formatter
-
+```
 ## Usage
 To use the API Response Formatter in your Laravel application, simply import the ApiResponse class and call the relevant methods in your controllers:
 

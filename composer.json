@@ -1,0 +1,23 @@
+{
+    "name": "avat/api-response-formatter",
+    "description": "A simple API response formatter for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Avat\\ApiResponseFormatter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Avat",
+            "email": "avatrezaei88@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+    
+}

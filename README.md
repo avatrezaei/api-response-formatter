@@ -1,8 +1,8 @@
 # API Response Formatter for Laravel
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
-[![Latest Stable Version](https://poser.pugx.org/yourname/api-response-formatter/v)](https://packagist.org/packages/yourname/api-response-formatter)
-[![Total Downloads](https://poser.pugx.org/yourname/api-response-formatter/downloads)](https://packagist.org/packages/yourname/api-response-formatter)
+[![Latest Stable Version](https://poser.pugx.org/avatrezaei/api-response-formatter/v)](https://packagist.org/packages/avatrezaei/api-response-formatter)
+[![Total Downloads](https://poser.pugx.org/avatrezaei/api-response-formatter/downloads)](https://packagist.org/packages/avatrezaei/api-response-formatter)
 
 The API Response Formatter is a Laravel package that provides a standardized way to format API responses. It simplifies the process of returning consistent responses, including success responses, error responses, validation error responses, and more.
 
@@ -18,14 +18,14 @@ The API Response Formatter is a Laravel package that provides a standardized way
 Install the API Response Formatter package via Composer:
 
 ```bash
-composer require avat/api-response-formatter
+composer require avatrezaei/api-response-formatter
 
 ## Usage
 To use the API Response Formatter in your Laravel application, simply import the ApiResponse class and call the relevant methods in your controllers:
 
 
 ```
-use Avat\ApiResponseFormatter\ApiResponse;
+use Avatrezaei\ApiResponseFormatter\ApiResponse;
 
 public function index()
 {
